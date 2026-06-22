@@ -12,8 +12,8 @@ The project focuses on clean UI, performance, and responsive design.
 ---
 
 ## 📸 Preview
-![Screenshot Desktop](../screenshots/Desktop.png)
-![Screenshot Desktop](../screenshots/mobile.png)
+![Screenshot Desktop](./screenshots/Desktop.png)
+![Screenshot Desktop](./screenshots/mobile.png)
 ---
 
 ## ✨ Features
